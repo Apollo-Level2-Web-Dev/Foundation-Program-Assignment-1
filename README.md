@@ -202,7 +202,7 @@ Submit only your one `.js` file.
 
 ---
 
-## Assignment Deadline: 3rd September, 11:59 PM
+### Assignment Deadline: 3rd September, 11:59 PM
 
 ---
 
