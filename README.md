@@ -4,7 +4,7 @@
 
 ---
 
-## Question 1 — Value Detective · 10 marks
+## Question 1: Value Detective · 10 marks
 
 Write a function `describeValue` that takes **any value** and returns a string with two pieces of information joined by a space, a pipe, and another space:
 
@@ -34,7 +34,7 @@ Watch out for these three. Think before you answer:
 
 ---
 
-## Question 2 — Bangladesh Weekend Machine · 10 marks
+## Question 2: Bangladesh Weekend Machine · 10 marks
 
 Write a function `getDayType` that takes a day name and returns:
 
@@ -59,7 +59,7 @@ It must also work when the student types the day in any letter case:
 
 ---
 
-## Question 3 — Username Gatekeeper · 10 marks
+## Question 3: Username Gatekeeper · 10 marks
 
 Write a function `validateUsername` that takes a username and checks it against these rules, **in this order**:
 
@@ -84,7 +84,7 @@ The order matters. Look at the third example carefully.
 
 ---
 
-## Question 4 — Dhaka CNG Fare Meter · 15 marks
+## Question 4: Dhaka CNG Fare Meter · 15 marks
 
 Write a function `getCngFare(distance, isNight, waitingMinutes)` that returns the total fare in taka.
 
@@ -112,7 +112,7 @@ Return the number, do not round it and do not add the word "taka".
 
 ---
 
-## Question 5 — Run Chase Commentator · 15 marks
+## Question 5: Run Chase Commentator · 15 marks
 
 Write an **arrow function** `getChaseVerdict(target, scored, ballsLeft)` for a cricket run chase.
 
