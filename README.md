@@ -205,4 +205,9 @@ Submit only your one `.js` file.
 
 ---
 
-The code & content must be your own. Avoid `copy-pasting` from documentation or `AI generators`
+## ⚠️ Plagiarism & AI Policy:
+
+* **Zero Tolerance:** Plagiarism will result in **0 marks**.
+* **No Copying:** Do not copy code from peers or online sources.
+* **No AI Code:** Do not use AI generators. We actively run AI code detection tools.
+* **Original Work:** All code must be 100% your own.
