@@ -4,9 +4,15 @@
 
 ---
 
-## Rules
+## File Structure
 
 1. Write all five answers in **one file** and name it `yourName.js` (example: `rahim.js`).
+2. 
+
+---
+
+## Rules
+
 2. Use the **exact function names** given. Spelling and capital/small letters must match.
 3. Every function must **`return`** its answer. Do not use `console.log` for the answer.
 
@@ -185,3 +191,19 @@ node run-checker.js yourName.js
 It will tell you, question by question, which test cases passed and which failed. Fix what you can and run it again.
 
 Submit only your one `.js` file.
+
+---
+
+## Submission Instructions
+
+1. **Repository Setup:** Create a personal GitHub repository and push your completed files.
+2. **Visibility:** Set the repository to **Public**.
+3. **Submission:** Paste the **direct repository URL** into the assignment submission box. Do not submit individual files or archives.
+
+---
+
+## Assignment Deadline: 3rd September, 11:59 PM
+
+---
+
+The code & content must be your own. Avoid `copy-pasting` from documentation or `AI generators`
