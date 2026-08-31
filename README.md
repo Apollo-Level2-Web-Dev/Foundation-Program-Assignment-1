@@ -155,13 +155,6 @@ Steps:
 
 ---
 
-## File Structure
-
-1. Write all five answers in **one file** and name it `yourName.js` (example: `rahim.js`).
-2. 
-
----
-
 ## Rules
 
 2. Use the **exact function names** given. Spelling and capital/small letters must match.
@@ -177,6 +170,12 @@ Steps:
 4. Return the text **exactly** as shown, including spaces and capital letters. `"Weekend"` is correct, `"weekend"` is not.
 5. You may only use what we covered in class: variables, operators, strings, template strings, `if / else`, `switch`, ternary, and functions. No arrays, no loops, no objects.
 6. **Part marks are given.** If your function works for some cases but not all, you still get marks for the cases that work. So attempt every question, even if you cannot make it perfect.
+
+---
+## File Structure
+
+1. Write all five answers in **one file** and name it `yourName.js` (example: `rahim.js`).
+2. 
 
 ---
 
