@@ -46,7 +46,7 @@ Write a function `getDayType` that takes a day name and returns:
 
 **You must solve this with `switch case`, not with `if / else`.**
 
-It must also work when the student types the day in any letter case:
+It must also work when the student enters the day in any letter case:
 
 | Call | Returns |
 | --- | --- |
