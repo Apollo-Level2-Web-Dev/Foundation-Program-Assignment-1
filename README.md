@@ -175,21 +175,7 @@ Steps:
 ## File Structure
 
 1. Write all five answers in **one file** and name it `yourName.js` (example: `rahim.js`).
-2. 
-
----
-
-## Before you submit check
-
-Run your file through the checker and see your marks:
-
-```bash
-node run-checker.js yourName.js
-```
-
-It will tell you, question by question, which test cases passed and which failed. Fix what you can and run it again.
-
-Submit only your one `.js` file.
+2. You may use comments to specify the question number (example: //Question No. 1)
 
 ---
 
