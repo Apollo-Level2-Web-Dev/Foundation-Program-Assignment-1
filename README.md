@@ -157,8 +157,8 @@ Steps:
 
 ## Rules
 
-2. Use the **exact function names** given. Spelling and capital/small letters must match.
-3. Every function must **`return`** its answer. Do not use `console.log` for the answer.
+1. Use the **exact function names** given. Spelling and capital/small letters must match.
+2. Every function must **`return`** its answer. Do not use `console.log` for the answer.
 
    ```js
    // ❌ this gives 0
@@ -167,9 +167,9 @@ Steps:
    // ✅ this is correct
    function add(a, b) { return a + b; }
    ```
-4. Return the text **exactly** as shown, including spaces and capital letters. `"Weekend"` is correct, `"weekend"` is not.
-5. You may only use what we covered in class: variables, operators, strings, template strings, `if / else`, `switch`, ternary, and functions. No arrays, no loops, no objects.
-6. **Part marks are given.** If your function works for some cases but not all, you still get marks for the cases that work. So attempt every question, even if you cannot make it perfect.
+3. Return the text **exactly** as shown, including spaces and capital letters. `"Weekend"` is correct, `"weekend"` is not.
+4. You may only use what we covered in class: variables, operators, strings, template strings, `if / else`, `switch`, ternary, and functions. No arrays, no loops, no objects.
+5. **Part marks are given.** If your function works for some cases but not all, you still get marks for the cases that work. So attempt every question, even if you cannot make it perfect.
 
 ---
 ## File Structure
