@@ -174,7 +174,7 @@ Steps:
 ---
 ## File Structure
 
-1. Write all five answers in **one file** and name it `yourName.js` (example: `rahim.js`).
+1. Write all five answers in **one file** and name it `answer.js` 
 2. You may use comments to specify the question number (example: //Question No. 1)
 
 ---
