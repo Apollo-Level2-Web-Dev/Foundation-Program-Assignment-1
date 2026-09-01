@@ -189,8 +189,8 @@ Steps:
 
 ## Assignment Deadline: (2 Days)
 
-* **60 marks:** September 2, 2026, 11:59 PM
-* **50 marks:** September 3, 2026, 11:59 PM
+* **60 Marks:** September 2, 2026, 11:59 PM
+* **50 Marks:** September 3, 2026, 11:59 PM
 
 ---
 
